@@ -1,0 +1,26 @@
+addr
+int * and char *
+addr
+addr
+cast
+index
+addr
+addr
+index
+index
+cast
+index
+call
+call
+addr
+deref
+deref
+add
+cast
+eql
+ltn
+addr
+fails 2 int int
+fails 2 int * int *
+call
+call
